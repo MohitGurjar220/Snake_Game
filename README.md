@@ -1,3 +1,13 @@
+#Output:
+
+ ![Screenshot (5)](https://github.com/user-attachments/assets/1363f9ae-c6cf-47f9-be1f-f952d2b3c15a)
+
+ 
+ 
+ 
+ 
+ 
+ 
  <h1>Snake-Game Using HTML,CSS,JS</h1>
 
 This is a simple implementation of the classic Snake game using HTML, CSS, and JavaScript. The game is played on a canvas element and controlled using the arrow keys on the keyboard.
